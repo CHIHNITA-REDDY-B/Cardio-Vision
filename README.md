@@ -8,8 +8,13 @@ The objective is to create a website that allows users to assess their risk of c
 ##Technology Stack:
 
 HTML
+
 CSS
+
 Bootstrap
+
 Python
+
 Flask
+
 Machine Learning
